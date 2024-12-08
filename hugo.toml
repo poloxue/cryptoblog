@@ -18,7 +18,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "收集加密货币的每日新闻或有价值的资源。"
+subtitle = "收集加密货币的每日新闻或其他资源。"
 enableGitalk = false
 enableGiscus = true
 
@@ -46,5 +46,5 @@ name = "归档"
 weight = 1
 [[menu.main]]
 url = "/index.xml"
-name = "RSS Feed"
+name = "RSS 订阅"
 weight = 4
