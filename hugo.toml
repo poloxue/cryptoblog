@@ -2,7 +2,7 @@ baseURL = "http://crypto.poloxue.com/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
 title = "Crypto-每日追踪"
-copyright = "This is a customized copyright."
+copyright = "copyright 2024."
 theme = "diary"
 
 [markup]
