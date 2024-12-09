@@ -9,7 +9,7 @@ description = "随着加密货币市场的火爆，越来越多人涌入其中�
 
 随着加密货币市场的火爆，越来越多人涌入其中，试图从中赚取丰厚的收益。但是，很多人并没有意识到，尽管市场即将进入暴涨阶段，实际上会有更多人亏损而非盈利。那么，如何才能成为这一轮行情中的赢家呢？最近发布的一份报告或许可以为你提供答案。今天，我们将为你解读这份报告的核心内容，并告诉你如何为成功做好准备。
 
-这份报告名为《2024年加密货币竞争力指数》，由CoinFessions和Pip World联合编写。我们会总结报告的主要亮点，并提供一些我们的评论，希望对你有所帮助。
+这份报告名为[《2024年加密货币竞争力指数》（The Crypto Competence Index 2024）](https://docs.google.com/presentation/d/e/2PACX-1vRAYxLEAbMKXI9kO4qes0mkEXydT0KWTm9FjWafGLfEM9iOxbd-sSCYNYdZCHcFNbmsghZ9Dpa3aH0p/pub?start=true&loop=true&delayms=1000&slide=id.p)，由CoinFessions和Pip World联合编写。我们会总结报告的主要亮点，并提供一些我们的评论，希望对你有所帮助。
 
 ### 1. 加密货币社区的财商现状
 
