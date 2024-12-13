@@ -1,5 +1,5 @@
 +++
-title = '2024 12 13 Altcoindaily2'
+title = '0x0 Arcane Wallet：保护隐私的革命性以太坊钱包'
 date = 2024-12-13T13:57:28+08:00
 draft = false
 description = '近年来，加密货币市场对隐私和安全的需求日益增长，尤其是在以太坊生态中。0x0 团队推出的 Arcane Wallet 正是为满足这种需求而打造的一款革命性隐私钱包。本文将为你简明介绍这款产品及其背后的隐私生态系统。'
