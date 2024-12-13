@@ -1,7 +1,7 @@
 +++
 title = 'TMTG 的加密之路：特朗普能否带领公司成为下一个 MicroStrategy？'
 date = 2024-12-13T12:23:29+08:00
-draft = true
+draft = false
 description = '近年来，特朗普（Donald Trump）在加密货币领域引发了不少讨论，而他的公司特朗普媒体与科技集团（Trump Media and Technology Group，简称 TMTG）也开始涉足这一领域。这一举动让人不禁好奇，TMTG 是否会成为下一个 MicroStrategy。本文将带您了解 TMTG 的加密之路以及其对市场的潜在影响。'
 +++
 
