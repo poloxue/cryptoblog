@@ -1,9 +1,11 @@
-+++
 title = 'Dan MoreHead 预测2025年加密市场大爆发！三大看好的币种'
++++
 date = 2024-12-14T14:03:17+08:00
 draft = false
 description = "在最近的采访中，**Pantera Capital** 的创始人兼亿万富翁 **Dan MoreHead** 分享了他对2025年加密市场的看法，以及为什么他认为比特币会在2025年大幅上涨。他还透露了自己最看好的三大 altcoin（山寨币）以及背后的理由。如果你想了解更多关于加密市场未来的机会和挑战，继续往下看！"
 +++
+
+来源：[Billionaire Dan Morehead: These 3 Crypto Coins Will Go Parabolic in Bitcoin Bull Run](https://www.youtube.com/watch?v=47kSvkHqqGM)
 
 在最近的采访中，**Pantera Capital** 的创始人兼亿万富翁 **Dan MoreHead** 分享了他对2025年加密市场的看法，以及为什么他认为比特币会在2025年大幅上涨。他还透露了自己最看好的三大 altcoin（山寨币）以及背后的理由。如果你想了解更多关于加密市场未来的机会和挑战，继续往下看！
 
