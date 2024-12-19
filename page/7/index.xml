@@ -1,4 +1,85 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crypto-每日追踪</title><link>http://crypto.poloxue.com/</link><description>Recent content on Crypto-每日追踪</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>copyright 2024.</copyright><lastBuildDate>Thu, 19 Dec 2024 10:57:59 +0800</lastBuildDate><atom:link href="http://crypto.poloxue.com/index.xml" rel="self" type="application/rss+xml"/><item><title>AI 与加密货币的结合：下一波趋势</title><link>http://crypto.poloxue.com/posts/2024-11-08-coinbureau1/</link><pubDate>Sun, 08 Dec 2024 14:20:55 +0800</pubDate><guid>http://crypto.poloxue.com/posts/2024-11-08-coinbureau1/</guid><description>Crypto-每日追踪 http://crypto.poloxue.com/posts/2024-11-08-coinbureau1/ -&lt;p>来源：&lt;a href="https://www.youtube.com/watch?v=ZpIxL75Vy58">Revealed: The AI Crypto Research Strategy That Finds Hidden Gems!&lt;/a>&lt;/p>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crypto-每日追踪</title><link>http://crypto.poloxue.com/</link><description>Recent content on Crypto-每日追踪</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>copyright 2024.</copyright><lastBuildDate>Thu, 19 Dec 2024 10:58:41 +0800</lastBuildDate><atom:link href="http://crypto.poloxue.com/index.xml" rel="self" type="application/rss+xml"/><item><title>预测主流加密货币上涨的一个关键因素</title><link>http://crypto.poloxue.com/posts/2024-11-07-coinbureau1/</link><pubDate>Sun, 08 Dec 2024 14:37:08 +0800</pubDate><guid>http://crypto.poloxue.com/posts/2024-11-07-coinbureau1/</guid><description>Crypto-每日追踪 http://crypto.poloxue.com/posts/2024-11-07-coinbureau1/ -&lt;p>来源：&lt;a href="https://www.youtube.com/watch?v=SMSPrI-IGeo">Bitcoin Is Rallying!! Are These Cryptos Next!?&lt;/a>&lt;/p>
+&lt;p>在加密市场中，是否有一种因素能够预测像 &lt;strong>ETH（以太坊）&lt;/strong>、&lt;strong>SOL（Solana）&lt;/strong> 或 &lt;strong>SUI（Sui）&lt;/strong> 这样的大型主流币种是否会上涨？实际上，有一个因素可以影响这些主流币及其生态系统中的其他代币。这个因素曾在上一轮加密牛市中推动以太坊及其相关代币达到历史新高。在这一轮牛市中，它也可能对 Solana、Sui 乃至比特币（BTC）产生类似的作用。今天，我们将为您解析这个因素，解释它可能带来的影响，以及它如何推动比特币价格超出预期，同时也可能引发下一次市场崩盘。&lt;/p>
+&lt;hr>
+&lt;h3 id="关键因素defi-杠杆与-btc-抵押借贷">关键因素：DeFi 杠杆与 BTC 抵押借贷&lt;/h3>
+&lt;p>这个关键因素是 &lt;strong>DeFi（去中心化金融）中的杠杆使用&lt;/strong>，特别是通过 &lt;strong>比特币（BTC）作为抵押品&lt;/strong>进行的借贷。&lt;/p>
+&lt;p>在加密牛市中，鲸鱼用户往往会使用其加密资产作为抵押借贷稳定币（如 USDC），然后用这些借来的资金购买其他代币。历史上，这种操作主要集中在与该链生态相关的智能合约平台代币上。例如：&lt;/p>
+&lt;ol>
+&lt;li>以太坊用户会用 &lt;strong>ETH&lt;/strong> 作为抵押品，从 DeFi 协议中借贷稳定币。&lt;/li>
+&lt;li>这些稳定币随后用于购买以太坊生态中的其他代币。&lt;/li>
+&lt;li>随着 ETH 的价格上涨，用户的借贷量和投资量都会增加，从而推动更多资金流入。&lt;/li>
+&lt;/ol>
+&lt;p>比特币作为加密市场中最稳定、流动性最强的资产，是最理想的抵押品。然而，比特币不支持智能合约，过去很难在智能合约平台（如以太坊）中直接使用 BTC 作为抵押品。这种局限性在 2019 年被突破，当时加密托管平台 &lt;strong>BitGo&lt;/strong> 和一组 DeFi 协议推出了 &lt;strong>WBTC（Wrapped Bitcoin，包装比特币）&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h3 id="包装比特币wbtc的兴起">包装比特币（WBTC）的兴起&lt;/h3>
+&lt;p>WBTC 是一种使比特币可以在智能合约平台上使用的机制。其基本原理如下：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>锁定 BTC&lt;/strong>：在比特币区块链上锁定一定数量的比特币。&lt;/li>
+&lt;li>&lt;strong>铸造等量的 WBTC&lt;/strong>：在另一条链（如以太坊）上铸造相应数量的 WBTC。&lt;/li>
+&lt;li>&lt;strong>赎回机制&lt;/strong>：用户可以通过销毁 WBTC 来取回锁定的 BTC。&lt;/li>
+&lt;/ul>
+&lt;p>尽管初期的 WBTC 铸造和赎回流程相对复杂，但它在 2020 年的 DeFi 爆发中得到了快速增长。到 2021 年中期，大约 &lt;strong>1% 的 BTC 总供应量&lt;/strong> 被包装成 WBTC 并用于 DeFi 借贷和投资。&lt;/p>
+&lt;hr>
+&lt;h3 id="未来的包装比特币更高效更广泛的应用">未来的包装比特币：更高效、更广泛的应用&lt;/h3>
+&lt;p>如今，包装比特币的技术正变得更加先进：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Coinbase 的 CBBTC&lt;/strong>：Coinbase 推出了自己的包装比特币协议，使用户可以轻松在多个链（如以太坊、Base 和 Solana）上铸造和赎回 CBBTC。&lt;/li>
+&lt;li>&lt;strong>Threshold Network 的 TBTC&lt;/strong>：TBTC 是一种去中心化包装比特币协议，通过跨链技术（如 Wormhole 桥）支持 30 多条区块链。&lt;/li>
+&lt;/ol>
+&lt;p>这些新技术将大幅降低使用 BTC 作为 DeFi 抵押品的门槛。随着更多用户参与，预计将出现以下趋势：&lt;/p>
+&lt;ul>
+&lt;li>包装比特币的供应量会显著增加。&lt;/li>
+&lt;li>更多 BTC 将被锁定，减少市场上的流通供应。&lt;/li>
+&lt;li>由此推动 BTC 的价格上涨，并刺激其他代币的投资。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="哪些代币将从中受益">哪些代币将从中受益？&lt;/h3>
+&lt;p>包装比特币热潮将为多条链及其生态代币带来机会。以下是可能受益的项目：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>以太坊（ETH）和以太坊生态代币&lt;/strong>&lt;br>
+由于 WBTC 和 CBBTC 的大部分供应都在以太坊上，这些代币的需求将直接推动以太坊及其生态系统的增长。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Solana（SOL）和 Solana 生态代币&lt;/strong>&lt;br>
+Coinbase 的 CBBTC 已支持 Solana，表明 Coinbase 对 Solana 生态的信心。Solana 的快速增长模式与以太坊的上一周期类似，可能吸引大量资金流入。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>去中心化包装比特币支持的链&lt;/strong>&lt;br>
+Threshold 的 TBTC 支持跨链操作，能够连接 Cosmos、Aptos 和 Sui 等较新生态系统，为这些链上的代币提供流动性和投资支持。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h3 id="btc-价格的潜在影响">BTC 价格的潜在影响&lt;/h3>
+&lt;p>在上一轮牛市中，超过 &lt;strong>1% 的 BTC 供应量&lt;/strong> 被包装成 WBTC 用于 DeFi。这已经为 BTC 价格提供了支撑。而在这一轮牛市中，多个包装比特币协议（如 WBTC、CBBTC 和 TBTC）的出现将进一步推动这一趋势。&lt;/p>
+&lt;p>以下是潜在的预测：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>包装比特币总量或达 100 万 BTC&lt;/strong>&lt;br>
+如果超过 &lt;strong>5% 的 BTC 供应量&lt;/strong> 被包装成其他链上的代币（如 WBTC 和 CBBTC），这将减少 BTC 的市场供应量，进一步推高价格。&lt;/li>
+&lt;li>&lt;strong>BTC 价格可能突破 $150,000&lt;/strong>&lt;br>
+如果 BTC 价格达到 $150,000，市场上被包装的比特币总价值将达到 &lt;strong>1500 亿美元&lt;/strong>，其中数百亿美元可能被用作借贷购买其他代币。&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="风险与潜在崩盘">风险与潜在崩盘&lt;/h3>
+&lt;p>尽管包装比特币热潮可能推动市场上涨，但杠杆的增加也带来了风险。在以往的每个加密周期中，过度杠杆化最终都会引发市场崩盘：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>借贷停止&lt;/strong>&lt;br>
+当 BTC 或其他代币的价格开始快速下跌时，投资者会被迫平仓并偿还贷款，这可能引发连锁反应。&lt;/li>
+&lt;li>&lt;strong>包装比特币的赎回风险&lt;/strong>&lt;br>
+包装比特币不原生存在链上，其赎回依赖于锁定的 BTC。如果流动性不足或赎回需求过大，可能导致包装比特币价格波动甚至崩盘。&lt;/li>
+&lt;/ol>
+&lt;p>这些因素可能在未来成为市场崩盘的导火索，就像 Terra 的 UST 崩盘最终导致了 2022 年的 FTX 危机一样。&lt;/p>
+&lt;hr>
+&lt;h3 id="总结">总结&lt;/h3>
+&lt;p>包装比特币的趋势将是下一轮加密牛市的重要推动力。随着更多 BTC 被包装用于 DeFi，其价格将受到强力支撑。但与此同时，杠杆的增加也为市场带来了潜在风险。&lt;/p>
+&lt;p>如果您想在这个新趋势中获益：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>关注包装比特币协议的发展&lt;/strong>。&lt;/li>
+&lt;li>&lt;strong>投资那些受益于 DeFi 杠杆增长的代币&lt;/strong>，如 ETH、SOL 和其他生态代币。&lt;/li>
+&lt;li>&lt;strong>保持警惕&lt;/strong>，为可能的市场调整做好准备。&lt;/li>
+&lt;/ul>
+&lt;p>这一趋势可能既是巨大的机会，也是潜在的挑战。谨慎投资，做好风险管理，是在这个市场中获利的关键！&lt;/p>
+- http://crypto.poloxue.com/posts/2024-11-07-coinbureau1/ - copyright 2024.</description></item><item><title>AI 与加密货币的结合：下一波趋势</title><link>http://crypto.poloxue.com/posts/2024-11-08-coinbureau1/</link><pubDate>Sun, 08 Dec 2024 14:20:55 +0800</pubDate><guid>http://crypto.poloxue.com/posts/2024-11-08-coinbureau1/</guid><description>Crypto-每日追踪 http://crypto.poloxue.com/posts/2024-11-08-coinbureau1/ -&lt;p>来源：&lt;a href="https://www.youtube.com/watch?v=ZpIxL75Vy58">Revealed: The AI Crypto Research Strategy That Finds Hidden Gems!&lt;/a>&lt;/p>
 &lt;p>近年来，AI（人工智能）叙事在加密货币领域变得愈发重要，而这次讨论的焦点是“AI代理”（AI Agents）。这种新兴技术不仅引起了业界的广泛关注，还推动了一些创新的项目，如 AI 代理促成的 Goatseus Maximus（简称 GOAT）这类迷因币的大幅上涨。以下是对这种技术及其潜在影响的解读。&lt;/p>
 &lt;hr>
 &lt;h4 id="什么是-ai-代理">什么是 AI 代理？&lt;/h4>
