@@ -18,7 +18,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "收集加密货币的每日新闻或其他资源。"
+subtitle = "本站是 AI 基于其他平台加密货币内容生成"
 enableGitalk = false
 enableGiscus = true
 
