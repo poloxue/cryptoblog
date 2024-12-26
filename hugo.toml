@@ -1,7 +1,7 @@
 baseURL = "http://crypto.poloxue.com/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "Crypto-每日追踪"
+title = "每日币圈"
 copyright = "copyright 2024."
 theme = "diary"
 
@@ -27,24 +27,3 @@ enableOpenGraph = true
 enableTwitterCards = true
 title = "My Blog" # will set 'og:site_name'
 description = "My HomePage Description"  # will set 'og:description'
-
-[taxonomies]
-   tag = "tags"
-   category = "categories"
-
-[[menu.main]]
-url = "/categories"
-name = "分类"
-weight = 2
-[[menu.main]]
-url = "/tags"
-name = "标签"
-weight = 3
-[[menu.main]]
-url = "/posts"
-name = "归档"
-weight = 1
-[[menu.main]]
-url = "/index.xml"
-name = "RSS 订阅"
-weight = 4
