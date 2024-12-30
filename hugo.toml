@@ -1,7 +1,7 @@
 baseURL = "https://crypto.poloxue.com/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "每日币圈"
+title = "每日资讯"
 copyright = "copyright 2024."
 theme = "diary"
 
@@ -18,7 +18,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "本站是 AI 基于其他平台内容总结而成"
+subtitle = "本站是 AI 基于其他平台内容生成，及时跟进资讯和新技术"
 enableGitalk = false
 enableGiscus = true
 
