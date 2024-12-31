@@ -1,4 +1,40 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>每日资讯</title><link>https://crypto.poloxue.com/</link><description>Recent content on 每日资讯</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>copyright 2024.</copyright><lastBuildDate>Tue, 31 Dec 2024 15:25:27 +0800</lastBuildDate><atom:link href="https://crypto.poloxue.com/index.xml" rel="self" type="application/rss+xml"/><item><title>机器人技术的最新突破：从家庭助手到4D模拟</title><link>https://crypto.poloxue.com/posts/pmvrf8j11yw/</link><pubDate>Tue, 31 Dec 2024 15:25:27 +0800</pubDate><guid>https://crypto.poloxue.com/posts/pmvrf8j11yw/</guid><description>每日资讯 https://crypto.poloxue.com/posts/pmvrf8j11yw/ -&lt;p>来源：&lt;a href="https://www.youtube.com/watch?v=pMvRF8j11Yw">New Humanoid Robot &amp;ldquo;ARMOR&amp;rdquo; Stress Tests 50+ Axes Autonomous AI (VEO 2 + EXBODY2)&lt;/a>&lt;/p>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>每日资讯</title><link>https://crypto.poloxue.com/</link><description>Recent content on 每日资讯</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>copyright 2024.</copyright><lastBuildDate>Tue, 31 Dec 2024 15:32:09 +0800</lastBuildDate><atom:link href="https://crypto.poloxue.com/index.xml" rel="self" type="application/rss+xml"/><item><title>自动化框架：节省生活中的时间</title><link>https://crypto.poloxue.com/posts/drhm8u34hss/</link><pubDate>Tue, 31 Dec 2024 15:32:09 +0800</pubDate><guid>https://crypto.poloxue.com/posts/drhm8u34hss/</guid><description>每日资讯 https://crypto.poloxue.com/posts/drhm8u34hss/ -&lt;p>来源：&lt;a href="https://www.youtube.com/watch?v=DrHm8U34HSs">THIS automation framework will save DAYS of your life&amp;hellip;&lt;/a>&lt;/p>
+&lt;h3 id="引言自动化的力量">引言：自动化的力量&lt;/h3>
+&lt;p>在当今快节奏的生活中，节省时间显得格外重要。想象一下，如果每天通过自动化节省五分钟，这一年下来就能节省30个小时。自动化和人工智能正在帮助我们&amp;quot;买回&amp;quot;时间。在本文中，我们将介绍一种系统和框架，帮助您有效节省时间。&lt;/p>
+&lt;h3 id="第一步建立输入数据库">第一步：建立输入数据库&lt;/h3>
+&lt;p>一切开始于输入和输出。高质量的输入可以带来高质量的输出。因此，我们需要一个地方来收集各种信息，如想法、文章、视频字幕、音频录音和电子邮件等。这就是输入数据库的作用。通过使用工具如Airtable，我们可以轻松创建一个输入数据库。&lt;/p>
+&lt;p>&lt;strong>建立输入数据库的步骤：&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>创建一个新的Airtable工作区。&lt;/li>
+&lt;li>为输入数据库命名。&lt;/li>
+&lt;li>添加字段，如“想法”、“原始文本”和“输入类型”等。&lt;/li>
+&lt;li>设定输入类型以便分类和过滤数据。&lt;/li>
+&lt;/ol>
+&lt;h3 id="第二步自动化信息收集">第二步：自动化信息收集&lt;/h3>
+&lt;p>通过工具如make.com，我们可以自动将信息汇集到输入数据库中。例如，可以创建一个自动化来从YouTube视频中提取字幕，并将其存储在数据库中。&lt;/p>
+&lt;p>&lt;strong>自动化示例：&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>使用RSS提要自动获取最新视频URL。&lt;/li>
+&lt;li>将这些URL存储在输入数据库中以便后续分析。&lt;/li>
+&lt;/ul>
+&lt;h3 id="第三步创建输出数据库">第三步：创建输出数据库&lt;/h3>
+&lt;p>一旦您有了输入数据库，下一步就是创建输出数据库。输出数据库用于存储从输入数据库中提取的信息的结果。&lt;/p>
+&lt;p>&lt;strong>创建输出数据库的步骤：&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>添加新的表格，用于存储输出数据。&lt;/li>
+&lt;li>根据需要定义字段，如“视频名称”、“观看次数”、“点赞数”等。&lt;/li>
+&lt;li>配置自动化以从输入数据库中提取数据，并填充到输出数据库中。&lt;/li>
+&lt;/ol>
+&lt;h3 id="第四步利用界面展示数据">第四步：利用界面展示数据&lt;/h3>
+&lt;p>在Airtable中，您可以创建界面来可视化展示数据。这使得查看和分析数据变得更加直观。&lt;/p>
+&lt;p>&lt;strong>界面创建的好处：&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>通过图表和图形展示数据趋势。&lt;/li>
+&lt;li>更直观地了解数据变化。&lt;/li>
+&lt;/ul>
+&lt;h3 id="总结自动化的未来">总结：自动化的未来&lt;/h3>
+&lt;p>通过建立一个完整的自动化框架，您可以极大地提高工作效率，节省大量时间。输入数据库是这个系统的核心，它使得信息的收集和管理变得不再繁琐。继续探索和应用这些技术，您将发现自动化带来的无穷可能。&lt;/p>
+- https://crypto.poloxue.com/posts/drhm8u34hss/ - copyright 2024.</description></item><item><title>机器人技术的最新突破：从家庭助手到4D模拟</title><link>https://crypto.poloxue.com/posts/pmvrf8j11yw/</link><pubDate>Tue, 31 Dec 2024 15:25:27 +0800</pubDate><guid>https://crypto.poloxue.com/posts/pmvrf8j11yw/</guid><description>每日资讯 https://crypto.poloxue.com/posts/pmvrf8j11yw/ -&lt;p>来源：&lt;a href="https://www.youtube.com/watch?v=pMvRF8j11Yw">New Humanoid Robot &amp;ldquo;ARMOR&amp;rdquo; Stress Tests 50+ Axes Autonomous AI (VEO 2 + EXBODY2)&lt;/a>&lt;/p>
 &lt;h3 id="机器人技术的新进展">机器人技术的新进展&lt;/h3>
 &lt;p>在机器人技术领域，Pudu Robotics最近展示了其D9人形机器人。D9不仅学会了使用新的工具，还具备了多种能力。它的设计以人为中心，旨在适应多种应用场景。D9机器人有42个自由度，能够以每秒2米的速度移动。它的动态移动能力和先进的AI系统确保了精确的导航和三维环境映射。此外，它的双臂每个都有七个自由度，可以处理超过20公斤的负载。&lt;/p>
 &lt;h3 id="x-body-2系统的革命性框架">X-Body 2系统的革命性框架&lt;/h3>
@@ -183,34 +219,4 @@
 &lt;p>乐聚机器人和引擎AI的最新技术展示了人形机器人在家庭和工业应用中的巨大潜力。在家庭中，它们可以执行如洗衣、浇水、整理花卉和晾干衣物等任务。在工业环境中，它们已经在进行电力检查和浸锡操作的测试，并有望在展览馆导览和客户互动等领域发挥作用。&lt;/p>
 &lt;h3 id="人形机器人市场的未来">人形机器人市场的未来&lt;/h3>
 &lt;p>人形机器人市场预计到2032年将增长到超过660亿美元。尽管开放AI在机器人优先级上尚不明确，但其投资战略表明对该领域的关注。未来，随着技术的不断进步，人形机器人将在物流优化、工业流程改进和家庭辅助等领域发挥至关重要的作用。&lt;/p>
-- https://crypto.poloxue.com/posts/gqgk8iegbd0/ - copyright 2024.</description></item><item><title>比特币牛市策略：合理布局与风险管理</title><link>https://crypto.poloxue.com/posts/tc1qhlxl8n0/</link><pubDate>Mon, 30 Dec 2024 12:25:09 +0800</pubDate><guid>https://crypto.poloxue.com/posts/tc1qhlxl8n0/</guid><description>每日资讯 https://crypto.poloxue.com/posts/tc1qhlxl8n0/ -&lt;p>来源：&lt;a href="https://www.youtube.com/watch?v=tc1qHLXL8n0">Exactly What’s Next For Bitcoin (How To Prepare Your Crypto Now)&lt;/a>&lt;/p>
-&lt;h3 id="简介">简介&lt;/h3>
-&lt;p>在当前的比特币牛市中，投资者面临着许多选择和挑战。本文将为您介绍如何在市场波动中做好准备，以便在未来的价格变动中获得最大收益。&lt;/p>
-&lt;h3 id="市场现状">市场现状&lt;/h3>
-&lt;p>目前，比特币价格经历了多次回调，这是牛市中的常见现象。价格在突破108,000美元后出现回调，预计每上涨10,000美元都会有类似的调整。根据历史数据和市场趋势，预计这一牛市的高峰可能在138,000美元到240,000美元之间。&lt;/p>
-&lt;h3 id="投资策略">投资策略&lt;/h3>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;strong>合理布局&lt;/strong>：&lt;/p>
-&lt;ul>
-&lt;li>当前市场的策略应是逐步推动价格上升，而非快速突破。&lt;/li>
-&lt;li>关注市场中的价格波动，利用这些波动来获利。&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>风险管理&lt;/strong>：&lt;/p>
-&lt;ul>
-&lt;li>使用杠杆交易时要谨慎，确保有适当的止损和风险管理措施。&lt;/li>
-&lt;li>避免过度杠杆化，以防止市场剧烈波动带来的风险。&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ol>
-&lt;h3 id="如何把握机会">如何把握机会&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>关注市场走势&lt;/strong>：在价格上涨到118,000美元后，预计将有新的回调。投资者应在价格上涨时获利了结，然后在价格下跌时重新投入市场。&lt;/li>
-&lt;li>&lt;strong>灵活调整投资组合&lt;/strong>：可以将资金投入表现优于比特币的山寨币，并在市场调整后增加持仓。&lt;/li>
-&lt;li>&lt;strong>长期视角&lt;/strong>：虽然短期波动频繁，但长期趋势仍然向好。投资者应保持耐心，不要被短期市场波动扰乱。&lt;/li>
-&lt;/ul>
-&lt;h3 id="结论">结论&lt;/h3>
-&lt;p>在当前的比特币牛市中，投资者应关注市场走势，合理布局投资，并做好风险管理。通过灵活调整投资策略，您可以在市场波动中实现收益最大化。希望本文能帮助您更好地理解当前市场形势，并做好充分准备。&lt;/p>
-- https://crypto.poloxue.com/posts/tc1qhlxl8n0/ - copyright 2024.</description></item></channel></rss>
+- https://crypto.poloxue.com/posts/gqgk8iegbd0/ - copyright 2024.</description></item></channel></rss>
